@@ -47,7 +47,7 @@ src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
 ---
 
 ### Estadísticas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITantucci&layout=compact&theme=material-palenight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITantucci&layout=compact&theme=material-palenight&show_icons=true&count_private=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITantucci&layout=compact&theme=material-palenight&show_icons=true&count_private=true)
 
