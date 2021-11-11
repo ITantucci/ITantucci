@@ -41,9 +41,10 @@ src="https://unpkg.com/simple-icons@v5/icons/git.svg" />][git]
 src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
 
 [<img align="left" alt="Bash" width="50px"
-src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
+src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]<br/><br/><br/><br/>
 
-<br/><br/><br/><br/>
+
+
 ---
 
 ### Estadísticas:
