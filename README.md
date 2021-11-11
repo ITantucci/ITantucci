@@ -50,10 +50,12 @@ src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]<br/><br/>
 ### Estadísticas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITantucci&layout=compact&theme=material-palenight&show_icons=true&count_private=true)
 
+<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITantucci&layout=compact&theme=material-palenight&show_icons=true&count_private=true)
 
-<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itantucci&layout=compact&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 [gmail]: mailto:itantucci@frba.utn.edu.ar
