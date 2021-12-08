@@ -59,7 +59,7 @@ src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]<br/><br/>
 -->
 
 [gmail]: mailto:itantucci@frba.utn.edu.ar
-[linkedin]: www.linkedin.com/in/ignacio-tantucci/
+[linkedin]: https://www.linkedin.com/in/ignaciotantucci/
 
 [vsc]: [https://code.visualstudio.com/]
 [git]: [https://git-scm.com/]
